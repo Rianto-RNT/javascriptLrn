@@ -18,3 +18,13 @@ console.table({
 })
 
 console.error("Error!")
+console.warn("Warning!")
+//console.clear()
+console.time('time')
+console.log('timing')
+console.log('timing')
+console.log('timing')
+console.log('timing')
+console.log('timing')
+console.log('timing')
+console.timeEnd('time')
