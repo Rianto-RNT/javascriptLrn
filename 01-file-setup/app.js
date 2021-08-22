@@ -1,3 +1,3 @@
-console.log('app.js')
+console.log("Hi, i'm rian")
 
 //test
