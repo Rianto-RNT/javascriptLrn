@@ -16,3 +16,7 @@ console.log(user)
 user.name= "Khairi"
 console.log(user)
 
+const arr = []
+console.log(arr)
+arr.push(3, 4)
+console.log(arr)
