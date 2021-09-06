@@ -13,7 +13,6 @@ item = null
 item = Symbol()
 
 // reference type
-
 // Array
 item = [1, 2, 4]
 // Object
